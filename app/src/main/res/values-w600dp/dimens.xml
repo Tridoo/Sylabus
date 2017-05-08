@@ -1,0 +1,8 @@
+<resources>
+    <integer name="textSize">5</integer>
+
+    <integer name="chmura1Top">8</integer>
+    <integer name="chmura2Top">18</integer>
+    <integer name="chmura3Top">28</integer>
+    <integer name="chmura4Top">38</integer>
+</resources>

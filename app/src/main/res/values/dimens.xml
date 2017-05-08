@@ -1,0 +1,36 @@
+<resources>
+    <integer name="textSize">3</integer>
+    <integer name="wysokoscPola">14</integer>
+
+    <integer name="migawkaSzerokosc">40</integer>
+    <integer name="migawkaMarginesTop">22</integer>
+    <integer name="sylabaSzerokosc">16</integer>
+    <integer name="czasFadeIn">1000</integer>
+
+    <integer name="chmura1Top">8</integer>
+    <integer name="chmura2Top">18</integer>
+    <integer name="chmura3Top">28</integer>
+    <integer name="chmura4Top">38</integer>
+
+
+        <integer-array name="chmuraMargines">
+            <item>8</item>
+            <item>18</item>
+            <item>28</item>
+            <item>38</item>
+        </integer-array>
+
+        <integer-array name="chmuraImg">
+            <item>@drawable/chmura1</item>
+            <item>@drawable/chmura2</item>
+            <item>@drawable/chmura3</item>
+            <item>@drawable/chmura4</item>
+        </integer-array>
+
+    <integer-array name="chmuraAnim">
+        <item>@anim/anim_chmura1</item>
+        <item>@anim/anim_chmura2</item>
+        <item>@anim/anim_chmura3</item>
+        <item>@anim/anim_chmura4</item>
+    </integer-array>
+</resources>

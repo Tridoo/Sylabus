@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sylabus</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_id">ca-app-pub-2530185123591218/4617688484</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string-array name="lista_kategorii">
+        <item></item>
+        <item>ZWIERZE</item>
+        <item>ROSLINA</item>
+        <item>OSOBA</item>
+        <item>RZECZ</item>
+    </string-array>
+</resources>

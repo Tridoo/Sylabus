@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tlo2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OPIS "
+        android:id="@+id/textView5"
+        android:textSize="20dp"
+        android:gravity="center_horizontal"
+        android:padding="10dp"
+        android:background="@drawable/rounded_corner"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aplikacja edukacyjna, pomaga w nauce pisania"
+        android:id="@+id/textView6"
+        android:gravity="center_horizontal"
+        android:padding="10dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/rounded_corner"
+        android:textSize="18dp"
+        android:layout_weight="1" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="10" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/back"
+        android:background="@drawable/back"
+        android:layout_gravity="bottom"
+        android:layout_weight="1" />
+</LinearLayout>

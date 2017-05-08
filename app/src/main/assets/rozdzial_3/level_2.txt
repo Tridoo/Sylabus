@@ -1,0 +1,4 @@
+to,po,la
+za,baw,ka
+ko,le,ga
+re,ni,fer

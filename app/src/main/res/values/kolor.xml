@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="celTlo">#ffffff</string>
+    <string name="celTloDobrze">#fffa72</string>
+    <string name="celTloZle">#b4b4b4</string>
+
+    <string name="celRamka">#64911a</string>
+    <string name="celRamkaDobrze">#718e02</string>
+    <string name="celRamkaZle">#757577</string>
+
+    <string name="zrodloRamka">#458acb</string>
+
+    <string name="fontPodpowiedz">#ffffff</string>
+    <string name="fontPodpowiedzRamka">#316da</string>
+
+    <string name="fontDobrze">#4a6c0e</string>
+    <string name="fontZle">#2f2f2f</string>
+    <string name="fontZrodlo">#0066b8</string>
+
+    <string name="fontBrawo">#cdf606</string>
+    <string name="fontBrawoRamka">#516601</string>
+    <string name="fontSprobuj">#065ca9</string>
+    <string name="fontSprobujRamka">#c2ebff</string>
+
+</resources>
